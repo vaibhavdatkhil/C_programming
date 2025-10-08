@@ -1,1 +1,1 @@
-**All C Programming pratise programs**
+**All C Programming Practice programs**
