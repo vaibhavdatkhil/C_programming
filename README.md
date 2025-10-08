@@ -1,1 +1,1 @@
-All c Programming parctise programs
+**All C Programming pratise programs**
