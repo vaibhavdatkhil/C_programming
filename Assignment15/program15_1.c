@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+// Even number logic
 int Count(int iNo)
 {
     int iDigit = 0;
