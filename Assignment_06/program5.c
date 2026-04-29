@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+//float percentage 
 float Percentage(int iNo1,int iNo2)
 {
     int iPer = 0.0f;
