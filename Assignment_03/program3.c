@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+Even factor Logic
 void EvenFactor(int iNo)
 {
     int iCnt = 0;
